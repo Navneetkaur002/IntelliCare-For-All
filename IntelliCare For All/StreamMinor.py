@@ -8,7 +8,7 @@ from datetime import datetime
 
 # PAGE CONFIG
 st.set_page_config(
-    page_title="💠 IntelliCare For All ",
+    page_title=" IntelliCare For All ",
     page_icon="💉",
     layout="wide"
 )
