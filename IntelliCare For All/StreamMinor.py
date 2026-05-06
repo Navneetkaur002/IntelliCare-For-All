@@ -137,7 +137,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # HEADER 
-st.markdown("<h1>💠 AI HealthMate</h1>", unsafe_allow_html=True)
+st.markdown("<h1>💠IntelliCare For All</h1>", unsafe_allow_html=True)
 st.markdown("<p class='subtitle'>India’s AI-Powered Smart Disease Diagnosis Assistant 🇮🇳</p>", unsafe_allow_html=True)
 st.markdown("<div class='ai-bubble'>👋 Hello! I’m your AI health companion — let’s check your health today.</div>", unsafe_allow_html=True)
 st.markdown("<hr>", unsafe_allow_html=True)
