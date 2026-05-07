@@ -225,7 +225,7 @@ if st.button("🔍 Run Diagnosis"):
         st.warning(f"⚠️ Prediction error: {e}")
 
 # ------------------ FOOTER ------------------
-st.markdown("<div class='ai-bubble'>✨ Thanks for using AI HealthMate! Stay healthy 💧</div>", unsafe_allow_html=True)
+st.markdown("<div class='ai-bubble'>✨ Thanks for using IntelliCare For All ! Stay healthy 💧</div>", unsafe_allow_html=True)
 st.markdown("<div style='text-align:center; color: gray; margin-top: 15px;'>Made with ❤️ in India | © 2025 AI HealthMate | Developed by <b>Navneet Kaur</b></div>", unsafe_allow_html=True)
 st.markdown("</div>", unsafe_allow_html=True)
 
