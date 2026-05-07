@@ -20,7 +20,7 @@ Libraries: Pandas, NumPy
 ```bash
 
 # Clone the repository
-git clone https://github.com/your-username/intellicare-for-all.git
+git clone https://github.com/Navneetkaur002/intellicare-for-all.git
 
 # Navigate to project folder
 cd intellicare-for-all
